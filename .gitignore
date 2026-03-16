@@ -68,3 +68,4 @@ lint/intermediates/
 lint/generated/
 lint/outputs/
 lint/tmp/
+push_to_github.sh
